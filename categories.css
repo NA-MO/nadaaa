@@ -54,9 +54,9 @@ button:hover{
 }
 .table-cell{
     display: table-cell;
-    width: 20%;
+    width: 30%;
     text-align: center;
-    padding: 4px 0;
+    padding: 3px 0;
     border-right: 1px solid #555;
     vertical-align: middle;
 }
@@ -64,7 +64,7 @@ button:hover{
     background: #2f4F4F;
     box-shadow: none;
     color: #fff;
-    font-weight: 600s;
+    font-weight: 600;
 }
 .last-cell{
     border-right: none;
