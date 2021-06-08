@@ -56,7 +56,7 @@ button:hover{
     display: table-cell;
     width: 30%;
     text-align: center;
-    padding: 1px 0;
+    padding:  0;
     border-right: 1px solid #555;
     vertical-align: middle;
 }
